@@ -1,0 +1,77 @@
+body {
+  font-family: "Girassol", cursive;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+.readme-wrapper {
+  text-align: center;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  font: bold;
+  color: blue;
+}
+
+span {
+  color: blue;
+  font-weight: bolder;
+}
+
+.box1 {
+  margin: 5px;
+  padding: 5px;
+  border-style: solid;
+  width: 30em;
+  border-radius: 10px;
+  background-color: black;
+  border-color: red;
+  display: block;
+}
+
+.box2 {
+  margin: 5px;
+  padding: 5px;
+  border-style: solid;
+  width: 30em;
+  border-radius: 10px;
+  background-color: black;
+  border-color: red;
+  display: block;
+  position: relative;
+}
+
+.box3 {
+  margin: 5px;
+  padding: 5px;
+  border-style: solid;
+  width: 30em;
+  border-radius: 10px;
+  background-color: black;
+  border-color: red;
+  display: block;
+}
+
+.box4 {
+  margin: 5px;
+  padding: 5px;
+  border-style: solid;
+  width: 30em;
+  border-radius: 10px;
+  background-color: black;
+  border-color: red;
+  display: block;
+}
